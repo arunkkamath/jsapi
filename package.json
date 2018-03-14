@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunkkamath/jsapi.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunkkamath/jsapi/issues"
+  },
+  "homepage": "https://github.com/arunkkamath/jsapi#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10"
+  }
+}
